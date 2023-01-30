@@ -1,0 +1,51 @@
+body{
+    font-family: monospace;
+    background-color:lightgray;
+}
+h1{
+    margin-left: 10px;
+    color:goldenrod;
+    border-bottom: 5px solid goldenrod;
+    font-size: 60px;
+    text-align: right;
+    
+}
+h2{
+    color: palevioletred;
+    margin-left:10px;
+    margin-top: 20px;
+    font-size: 40px;
+    border-bottom: 5px solid palevioletred;
+    width: fit-content;
+}
+h3{
+    color: black;
+    margin-left: 10px;
+    margin-top: 50px;
+    border-radius: 10px;
+    border: 10px groove lemonchiffon;
+    width:fit-content;
+}
+table{
+    border-radius: 10px;
+    border: 10px groove khaki;
+    margin-left: 10px;
+}
+th{
+    background-color: linen;
+}
+td{
+    border-bottom: 3px groove khaki;
+    border-right: 3px groove khaki;
+}
+.tag{
+     background-color: palevioletred;
+     border-collapse: collapse;
+    }
+.attribute{
+    background-color: palevioletred;
+    border-collapse: collapse;
+}
+
+
+
